@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/booksearch/static/css/main.1f4ac567.css",
+    "main.js": "/booksearch/static/js/main.8d360bee.js",
+    "static/media/annie-spratt-5cFwQ-WMcJU-unsplash-min.jpg": "/booksearch/static/media/annie-spratt-5cFwQ-WMcJU-unsplash-min.cf19225fbd7436ce4e86.jpg",
+    "index.html": "/booksearch/index.html",
+    "main.1f4ac567.css.map": "/booksearch/static/css/main.1f4ac567.css.map",
+    "main.8d360bee.js.map": "/booksearch/static/js/main.8d360bee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f4ac567.css",
+    "static/js/main.8d360bee.js"
+  ]
+}
