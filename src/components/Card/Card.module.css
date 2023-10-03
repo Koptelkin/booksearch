@@ -1,0 +1,37 @@
+.card {
+    background-color: rgb(244, 240, 236);
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 5px 5px 10px rgb(158, 156, 156);
+}
+
+.card img {
+    width: 150px;
+    height: 200px;
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px rgb(158, 156, 156);
+}
+
+.card .info {
+    display: flex;
+    flex-direction: column;
+}
+
+.card .info .category  {
+    text-decoration: underline;
+
+}
+
+.card .info h3 {
+    margin: 0;
+}
+
+.card .info .category, .card .info p {
+    font-size: 14px;
+    color: rgb(153, 149, 149);
+}
+
